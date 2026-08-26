@@ -1,0 +1,6 @@
+*.ipynb
+*.parquet
+*.md
+*.pth
+.git
+streamlit_app.py

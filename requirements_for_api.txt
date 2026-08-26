@@ -1,0 +1,6 @@
+pydantic
+onnxruntime
+transformers
+pandas
+uvicorn
+fastapi
